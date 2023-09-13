@@ -15,6 +15,9 @@ Four different classification models are built and trained on the tweets that ha
 
 ## 3. Sentiment Classification 
 The trained models are used to classify the texts collected. Also, pretrained model AWS, Bard and all are also applied to make the classification. and then the majority of the predictions are taken as final sentiment.
+
+## 4. Factor and Topics Identification
+Based on the sentiment analysis results, factors, reasons and topics are identified that drive sentiment. 
  
 
 
