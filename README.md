@@ -18,6 +18,11 @@ The trained models are used to classify the texts collected. Also, pretrained mo
 
 ## 4. Factor and Topics Identification
 Based on the sentiment analysis results, factors, reasons and topics are identified that drive sentiment. 
+
+## 5. Visualisations, story telling, recommendations
+Visualisations of results obtained in part 3 and 4 with word clouds to show the public sentiment about Ukraine, sentiment about Russia. 
+
+These results are used to make suggestions that can make positive impact on Ukraine's international presence and image. 
  
 
 
