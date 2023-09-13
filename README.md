@@ -8,7 +8,7 @@ Tweets from this date to that date are scraped with the hash tag of #UkrainWar #
 ## 2. Sentiment Modelling 
 Four different classification models are built and trained on the tweets that have had their sentiments already analyzed. 
 - George Washington
-* John Adams
+* John Adams 
 + Thomas Jefferson
 
 
