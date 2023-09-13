@@ -5,6 +5,8 @@ Sentiment computation on social media posts on the war of Russia and Ukraine is 
 
 ## 1. Data collection and pre-processing
 Tweets from this date to that date are scraped with the hash tag of #UkrainWar #RussiaWar and which is cleaned and computable data is prepared using TF-IDF.  
+## 2. Sentiment Modelling 
+Four different classification models are built and trained on the tweets that have had their sentiments already analyzed. 
 
 
 
