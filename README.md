@@ -13,7 +13,7 @@ Four different classification models are built and trained on the tweets that ha
 + Random Forest
 + XGBoost
 <p align="center">
-  <img src="images/Screenshot 2025-03-31 124237.jpeg" alt="The Light that Bears Witness" width="600"/>
+  <img src="images/Screenshot 2025-03-31 124237.png" alt="The Light that Bears Witness" width="600"/>
 </p>
 
 ## 3. Sentiment Classification 
