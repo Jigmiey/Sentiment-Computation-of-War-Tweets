@@ -28,7 +28,7 @@ Based on the sentiment analysis results, factors, reasons and topics are identif
   <img src="images/negativetweet_word_cloud.png" alt="Left Image" width="45%" style="display: inline-block; margin-right: 10px;"/>
   <img src="images/postivesentimentwordcloud.png" alt="Right Image" width="45%" style="display: inline-block;"/>
 </p>
-p>
+<p>
   This is the first sentence.
   <span style="margin-left: 100px;"></span>
   This is the second sentence.
