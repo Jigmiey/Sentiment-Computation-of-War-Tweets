@@ -21,8 +21,12 @@ The trained models are used to classify the texts collected. Also, pretrained mo
 <p align="center">
   <img src="images/no of tweet.png" alt="The Light that Bears Witness" width="600"/>
 </p>
+
 ## 4. Factor and Topics Identification
 Based on the sentiment analysis results, factors, reasons and topics are identified that drive sentiment. 
+<p align="center">
+  <img src="images/negativetweet_word_cloud.png" alt="The Light that Bears Witness" width="600"/>
+</p>
 
 ## 5. Visualisations, story telling, recommendations
 Visualisations of results obtained in part 3 and 4 with word clouds to show the public sentiment about Ukraine, sentiment about Russia. 
