@@ -33,12 +33,7 @@ Based on the sentiment analysis results, factors, reasons and topics are identif
   <span style="margin-left: 100px;"></span>
   This is the second sentence.
 </p>
-<table>
-  <tr>
-    <td>This is the first sentence.</td>
-    <td style="text-align: right;">This is the second sentence.</td>
-  </tr>
-</table>
+<p>This is the first sentence.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is the second sentence.</p>
 ## 5. Visualisations, story telling, recommendations
 Visualisations of results obtained in part 3 and 4 with word clouds to show the public sentiment about Ukraine, sentiment about Russia. 
 
