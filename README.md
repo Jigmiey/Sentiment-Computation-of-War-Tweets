@@ -24,10 +24,10 @@ The trained models are used to classify the texts collected. Also, pretrained mo
 
 ## 4. Factor and Topics Identification
 Based on the sentiment analysis results, factors, reasons and topics are identified that drive sentiment. 
-<p align="center">
+<p align="left">
   <img src="images/negativetweet_word_cloud.png" alt="The Light that Bears Witness" width="600"/>
 </p>
-<p align="center">
+<p align="right">
   <img src="images/postivesentimentwordcloud.png" alt="The Light that Bears Witness" width="600"/>
 </p>
 ## 5. Visualisations, story telling, recommendations
